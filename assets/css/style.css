@@ -13,8 +13,6 @@
     background-color: var(--lighter-color);
 }
 
-/* Container top */
-
 [class^="col-"] {
     background-color: var(--primary-color);
     color: var(--lighter-color);

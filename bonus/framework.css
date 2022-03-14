@@ -48,6 +48,10 @@
   .text-left {
       text-align: left;
   }
+
+  .uppercase {
+      text-transform: uppercase;
+  }
   
  /* Utility spaces */
 
