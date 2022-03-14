@@ -27,6 +27,8 @@
     border: 1px solid var(--primary-color)
 }
 
-
+#txt-blue {
+    color: var(--primary-color);
+}
 
 
